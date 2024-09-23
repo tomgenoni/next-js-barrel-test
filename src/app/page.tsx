@@ -87,7 +87,7 @@ import IconWrite from '../icons/components/IconWrite';
 export default function Home() {
   return (
     <div style={{ padding: '2rem' }}>
-      <h1>barrel file</h1>
+      <h1>no barrel file</h1>
       <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem', marginTop: '1rem' }}>
         <IconAllBots />
         <IconArrowBack />
