@@ -1,4 +1,4 @@
-import IconAllBots from '../icons/components/IconAllBots';
+import IconAllBots from '../../icons/components/IconAllBots';
 
 export default function Home() {
   return (
